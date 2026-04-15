@@ -1,0 +1,11 @@
+member_id,member_name,last_check_in,total_visits_last_30_days,plan_type,class_name,class_datetime
+101,Sarah Lee,10/1/2024,2,Monthly Unlimited,CKO Kickboxing,10/1/2024 18:00
+102,James Kim,10/7/2024,8,10-Class Pack,CKO Kickboxing,10/7/2024 19:00
+103,Maria Gomez,9/25/2024,1,Monthly Unlimited,CKO Kickboxing,9/25/2024 18:00
+104,David Chen,10/5/2024,5,Monthly Unlimited,CKO Kickboxing,10/5/2024 7:00
+105,Emily Johnson,9/20/2024,0,Monthly Unlimited,CKO Kickboxing,9/10/2024 18:00
+106,Robert Davis,10/6/2024,6,10-Class Pack,CKO Kickboxing,10/6/2024 18:00
+107,Linda Martinez,10/3/2024,3,Monthly Unlimited,CKO Kickboxing,10/3/2024 19:00
+108,Michael Brown,9/28/2024,1,Drop-In,CKO Kickboxing,9/28/2024 9:00
+109,Olivia Wilson,10/2/2024,4,Monthly Unlimited,CKO Kickboxing,10/2/2024 18:00
+110,Daniel Anderson,9/22/2024,0,10-Class Pack,CKO Kickboxing,9/15/2024 18:00
